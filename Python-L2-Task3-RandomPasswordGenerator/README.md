@@ -1,3 +1,28 @@
+3. Random Password Generator
+A Python application that generates secure and customizable random passwords.
+
+Features
+
+Generate strong random passwords
+Select password length
+Include uppercase, lowercase, digits, and special characters
+Simple graphical user interface
+Copy password directly to the clipboard
+Technologies Used
+
+Python
+Tkinter
+secrets
+string
+pyperclip
+
+
+
+
+
+
+
+
 TASK 3 · Random Password Generator
 Objective: Build a Python tool that generates strong, random passwords based on user-defined criteria. Beginners build a command-line version; advanced builds a GUI with complexity controls and clipboard integration.
 Tech Stack — Beginner: Python, random, string Tech Stack — Advanced: Python, secrets (cryptographically secure), tkinter or PyQt5, pyperclip
