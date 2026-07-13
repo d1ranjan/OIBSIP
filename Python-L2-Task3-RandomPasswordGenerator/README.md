@@ -34,7 +34,7 @@ pip install pyperclip
 Run the application:
 
 ```bash
-python main.py
+python task3.py
 ```
 
 Select the desired password options and generate a secure password instantly.
