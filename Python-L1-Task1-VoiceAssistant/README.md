@@ -22,7 +22,7 @@ A Python-based voice assistant that listens to user commands, converts speech to
 * Requests
 * gTTS
 * Pygame
-* #Ollama
+* Ollama
 
 ## Installation
 
